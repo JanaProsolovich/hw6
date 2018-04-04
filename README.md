@@ -45,7 +45,23 @@
 
 ![](https://github.com/JanaProsolovich/hw6/blob/master/часть%202%20задание%201.PNG)
 
+# Задание № 2 
 
+Анализ синонимичных глаголов **like** и **love** и дополнения, которые чаще всего используются с ними
+
+## скрин objectives, используемых с like
+![](https://github.com/JanaProsolovich/hw6/blob/master/задание%202%20Like.PNG)
+
+## скрин objectives, использучемых с love
+
+![](https://github.com/JanaProsolovich/hw6/blob/master/задание%202%20love.PNG)
+
+## скрин objectives, используемых с love и c like
+
+![](https://github.com/JanaProsolovich/hw6/blob/master/2%20love%20like.PNG)
+
+
+# Задание № 3
 
 
 
