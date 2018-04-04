@@ -1,4 +1,5 @@
 
+
 # hw6
 
 **Часть 1 ( Googe- Ngram) Viewer**
@@ -63,7 +64,17 @@
 
 # Задание № 3
 
+Анализ слова **inventive** в Google Ngram и Sketch Engine
 
+## скрин графика в Google Ngram Viewer 
+![](https://github.com/JanaProsolovich/hw6/blob/master/inventive%20google%20ngram.PNG)
+## скрин графика и статистика в Sketch Engine 
+![](https://github.com/JanaProsolovich/hw6/blob/master/inventive%20trend%201.PNG)
+![](https://github.com/JanaProsolovich/hw6/blob/master/inventive%20trends.PNG)
+
+## вывод 
+
+Google Ngram Viewer показывает нам примерную частотность данного слово, в то время как SketchEngine более точную. В Google Ngram Viewer слово имеет одну и ту же частоту использования на протяжении 100 лет. По данным второго приложения intentive стали использовать только с 1893 года и тогда произошел рост частотности. 
 
 
 
